@@ -6,7 +6,7 @@ import {
   Page,
   PortofinoComponent,
   PortofinoService
-} from "portofino";
+} from "projects/portofino/src/public_api";
 import {Component, OnInit} from "@angular/core";
 import {HttpClient, HttpParams} from "@angular/common/http";
 import {ActivatedRoute, Router} from "@angular/router";
