@@ -9,7 +9,4 @@
 .DS_Store
 Thumbs.db
 .idea
-oneclick/local.*
-oneclick/build/*
-#Created by portofino-spring-boot
-/portofino-application/
+node_modules

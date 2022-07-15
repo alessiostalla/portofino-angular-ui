@@ -1,4 +1,0 @@
-extraction:
-  java:
-    index:
-      build_command: mvn clean package -P-build-frontend -Dmaven.test.skip
