@@ -1,8 +1,10 @@
-# This package
+# Portofino Angular UI
 
-This is the User Interface (UI) component of Portofino 5. It is built on Angular with TypeScript and it is meant to run in the browser.
+This is the User Interface (UI) component of Portofino 6. It is built on Angular with TypeScript and it is meant to run in the browser.
 
 Portofino is a tool for building model-driven web APIs and applications. For more information, visit https://github.com/ManyDesigns/Portofino.
+
+Up to version 5, this component was part of core Portofino. In version 6, it has been extracted to a separate project, so that the core can focus more on building services without meddling with UI technologies.
 
 ## Development server
 
